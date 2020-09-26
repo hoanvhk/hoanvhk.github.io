@@ -1,0 +1,36 @@
+/*-----------------------------------------------------------------------------------
+
+	Theme Name: Kono
+	Theme URI: http://
+	Description: The Multi-Purpose Onepage Template
+	Author: ui-themez
+	Author URI: http://themeforest.net/user/ui-themez
+	Version: 1.0
+
+-----------------------------------------------------------------------------------*/
+
+/* ----------------------------------------------------------------
+			[ All Css Plugins & Helper Classes File ]
+-----------------------------------------------------------------*/
+
+/* == bootstrap == */
+@import url("plugins/bootstrap.min.css");
+
+/* == animate css == */
+@import url("plugins/animate.min.css");
+
+/* == pe-icon-7-stroke icon font == */
+@import url("plugins/pe-icon-7-stroke.css");
+
+/* == fontawesome icon font == */
+@import url("plugins/fontawesome-all.min.css");
+
+/* == magnific-popup == */
+@import url("plugins/magnific-popup.css");
+
+/* == owl.carousel == */
+@import url("plugins/owl.carousel.min.css");
+@import url("plugins/owl.theme.default.min.css");
+
+/* == helper classes == */
+@import url("plugins/helper.css");
